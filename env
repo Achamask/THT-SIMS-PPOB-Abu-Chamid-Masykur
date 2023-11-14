@@ -34,7 +34,7 @@
 
 #--------------------------------------------------------------------
 
-app.baseURL = 'https://achamask.github.io/THT-SIMS-PPOB-Abu-Chamid-Masykur/public/'
+app.baseURL = 'https://achamask.github.io/THT-SIMS-PPOB-Abu-Chamid-Masykur/'
 
 # If you have trouble with `.`, you could also use `_`.
 
